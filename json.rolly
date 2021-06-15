@@ -1,0 +1,12 @@
+{
+   "staff": {
+      "name": "Tuna",
+      "age": 0,
+      "phone": 0,
+      "role": "Owner",
+      "moderator": true,
+      "developer": true,
+      "friend": true,
+      "booster": true
+   }
+}
